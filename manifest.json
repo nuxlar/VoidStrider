@@ -1,0 +1,11 @@
+﻿{
+	"name": "MithrixTheAccursed",
+	"version_number": "2.5.1",
+	"website_url": "",
+	"description": "The Accursed King of Nothing uses unrelenting projectile barrages and brute force to overwhelm his enemies.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"tristanmcpherson-R2API-4.4.1"
+	]
+}
