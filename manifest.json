@@ -1,8 +1,8 @@
 ﻿{
-	"name": "MithrixTheAccursed",
-	"version_number": "2.5.1",
+	"name": "VoidStrider",
+	"version_number": "1.0.0",
 	"website_url": "",
-	"description": "The Accursed King of Nothing uses unrelenting projectile barrages and brute force to overwhelm his enemies.",
+	"description": "A new void boss that replaces Voidling",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
 		"RiskofThunder-HookGenPatcher-1.2.1",
